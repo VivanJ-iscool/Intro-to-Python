@@ -1,0 +1,15 @@
+import turtle
+meep=turtle.Turtle()
+meep.shape("turtle")
+
+meep.forward(50)
+meep.left(60)
+meep.forward(50)
+meep.left(60)
+meep.forward(50)
+meep.left(60)
+meep.forward(50)
+meep.left(60)
+meep.forward(50)
+meep.left(60)
+meep.forward(50)
